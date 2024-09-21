@@ -20,7 +20,7 @@ jobs:
 
       - name: Run tests
         run: |
-          python  unittestcases.py
+          python  testcases.py
 
         
 
